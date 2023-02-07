@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 <div align="center">
 <br>
   <a href="#" padding-right="5px"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mikaaurora&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=ayu-mirage" height="150px" />  </a>  
+  <br>
+  <br>
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaaurora&layout=compact&theme=ayu-mirage&hide=python,ejs" height="150px" /></a> 
   <br>
   <br>
